@@ -1,0 +1,46 @@
+## Arquivos e pastas ignorados pelo Git
+
+# Arquivos de build
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Arquivos de configuração local
+appsettings.Development.json
+appsettings.Local.json
+
+# Arquivos de IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Arquivos de banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 
