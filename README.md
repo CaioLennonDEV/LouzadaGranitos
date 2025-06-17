@@ -50,13 +50,13 @@ dotnet ef database update
 
 6. Execute o projeto
 ```bash
-dotnet run
+dotnet run --project LouzadaGranitos.ConsoleApp
 ```
+
 
 ## 👥 Autores
 
-- CAIO LENNON VANDERMUREN 
+- CAIO LENNON VANDERMUREN
 - MARIA EDUARDA LOUZADA
 - VINICIO MENDES
 - LIVIA LOUZADA
-
